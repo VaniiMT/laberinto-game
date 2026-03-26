@@ -1,2 +1,3 @@
 # laberinto-game
-lablabgamegame
+escribe en el terminal "A o a" o "B o b" para empezar el juego 
+escribe "q" para empezar de nuevo el juego (salir)
